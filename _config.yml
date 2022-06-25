@@ -33,9 +33,10 @@ twitter_username: williamgfoster
 github_username:  elloboblanco
 
 # Build settings
-remote_theme: no-style-please
+remote_theme: daviddarnes/garth
 plugins:
   - jekyll-feed
+  - garth-jekyll-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
